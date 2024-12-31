@@ -14,11 +14,11 @@
 
 // OBJECT DESTRUCTURING
 
-const obj={
-name:"sonu",
-age: 20,
-address: "ranchi",
-}
+// const obj={
+// name:"sonu",
+// age: 20,
+// address: "ranchi",
+// }
 
 // console.log(obj)
 
@@ -39,3 +39,4 @@ address: "ranchi",
 // console.log(name)
 // console.log(age)
 // console.log(address)
+
