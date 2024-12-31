@@ -1,19 +1,16 @@
 // TEMPLATE LITERALS
-const age = 40;
-const fullNAME = "sonu"
 
-// "hello mr sonu your age is: 40"
+// const a = 10;
+// const b = 40;
 
-// console.log("hello mr"+fullNAME+"your age is:"+age)
+// console.log(a+b);
 
-console.log(`hello mr ${fullNAME} your age is: ${age}`);
+let fullNAME = "SONU";
+let age= 20;
 
-//  Q PRINT SUM OF TWO NUMBERS 
+// console.log(age)
+// console.log(fullNAME)
 
-const a = 20;
-const b = 30;
+// output your name is sonu and your age is 20
 
-console.log(`sum of ${a} and ${b} is = ${a+b}`);
-
-
-
+console.log(`your name is ${fullNAME} and your age is ${age}`)
